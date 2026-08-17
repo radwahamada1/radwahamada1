@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HERO -->
-# Hi, I'm Radwa Hamada👋 
+# Hi👋, I'm Radwa Hamada
 
 
 <!-- ABOUT ME -->
