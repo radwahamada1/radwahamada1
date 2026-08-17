@@ -86,6 +86,10 @@ I love understanding how models learn, experimenting with algorithms, and transf
 <a href="https://github.com/radwahamada1">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
+&nbsp;
+<a href="https://www.kaggle.com/radwahamada">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white"/>
+</a>
 
 <br><br>
 
