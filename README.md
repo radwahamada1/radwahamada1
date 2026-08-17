@@ -5,8 +5,7 @@
 
 
 <!-- ABOUT ME -->
-I'm a **Computer Science Graduate** passionate about **Machine Learning**, **Deep Learning**, and **Computer Vision**.
-I love understanding how models learn, experimenting with algorithms, and transforming ideas into real-world solutions.
+I'm a Computer Science Graduate passionate about Machine Learning, Deep Learning, and AI. I love exploring how models can be used to solve real-world problems, experimenting with different approaches, and turning AI ideas into practical solutions.
 
  **Fun fact:** If you don’t find me coding, I’m probably either training people at the gym or building tech communities with Google.🦥
 
