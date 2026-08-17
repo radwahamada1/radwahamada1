@@ -1,17 +1,14 @@
 <div align="center">
 
 <!-- HERO -->
-# 👋 Hi, I'm Radwa Hamada — Quptan
+# Hi, I'm Radwa Hamada👋 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=FF9E00&center=true&vCenter=true&width=750&height=50&lines=AI+Engineer;Machine+Learning+Engineer;Deep+Learning+Engineer;Computer+Vision+Enthusiast" />
-
-<br>
 
 <!-- ABOUT ME -->
 I'm a **Computer Science Graduate** passionate about **Machine Learning**, **Deep Learning**, and **Computer Vision**.
 I love understanding how models learn, experimenting with algorithms, and transforming ideas into real-world solutions.
 
-🏋️‍♀️ **Fun fact:** When I'm not coding, you'll find me at the gym or building tech communities with Google.
+ **Fun fact:** If you don’t find me coding, I’m probably either training people at the gym or building tech communities with Google.🦥
 
 </div>
 
@@ -20,7 +17,15 @@ I love understanding how models learn, experimenting with algorithms, and transf
 ---
 
 <!-- SKILLS -->
+
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=FF9E00&center=true&vCenter=true&width=750&height=50&lines=AI+Engineer;Machine+Learning+Engineer;Deep+Learning+Engineer;Computer+Vision+Enthusiast" />
+<br><br>
+
+<img src="./gif.gif" width="300" style="border-radius: 8px;" />
+
+<br><br>
 
 ## 🛠️ Skills & Technologies
 
@@ -85,5 +90,11 @@ I love understanding how models learn, experimenting with algorithms, and transf
 <br><br>
 
 ✨ *Build. Learn. Experiment. Repeat.* ✨
+
+<br>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/Oh%2C%20I%20almost%20forgot!%20You%20can%20call%20me-Quptan%20%E2%80%94%20everyone%20does!%20%F0%9F%AB%A1-FF9E00?style=for-the-badge&colorA=2D3748&colorB=FF9E00&logoColor=white"😁 />
+</a>
 
 </div>
