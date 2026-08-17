@@ -46,7 +46,7 @@ I'm a Computer Science Graduate passionate about Machine Learning, Deep Learning
 <!-- QUOTES -->
 <div align="center">
 
-## 💭 Quotes
+## 💭 What I Believe
 
 <br>
 
