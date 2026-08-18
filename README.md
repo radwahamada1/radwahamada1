@@ -26,7 +26,7 @@ I'm a Computer Science Graduate passionate about Machine Learning, Deep Learning
 
 <br><br>
 
-## 🛠️ Skills & Technologies
+##  Skills & Technologies
 
 <br>
 
@@ -46,7 +46,7 @@ I'm a Computer Science Graduate passionate about Machine Learning, Deep Learning
 <!-- QUOTES -->
 <div align="center">
 
-## 💭 What I Believe
+##  What I Believe
 
 <br>
 
@@ -66,13 +66,13 @@ I'm a Computer Science Graduate passionate about Machine Learning, Deep Learning
 <!-- GITHUB ACTIVITY & CONNECT -->
 <div align="center">
 
-## 📊 GitHub Activity
+##  GitHub Activity
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=radwahamada1&theme=transparent&stroke=FF9E00&fire=FF9E00&ring=FF9E00&currStreakNum=FF9E00&currStreakLabel=FFB703&sideNums=FF9E00&sideLabels=FFB703&dates=8B949E&hide_border=true" />
 
 <br><br>
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 <a href="https://www.linkedin.com/in/radwa-hamada-197755248/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
