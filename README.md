@@ -30,12 +30,12 @@ I'm a Computer Science Graduate passionate about Machine Learning, Deep Learning
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=python,cpp,postgres,matlab,sklearn,pytorch,tensorflow,opencv,docker,git,vscode,fastapi" />
+<img src="https://skillicons.dev/icons?i=python,cpp,postgres,matlab,sklearn,pytorch,tensorflow,opencv,docker,git,vscode" />
 
 <br><br>
 
 `Python` • `C++` • `SQL` • `PyTorch` • `TensorFlow` • `OpenCV` • `Scikit-Learn`  
-`Docker` • `FastAPI` • `Flask` • `Streamlit` • `Git` • `RAG` • `LLMs`
+`Docker` • `FastAPI` • `Flask` • `Streamlit` • `Git` 
 
 </div>
 
