@@ -98,7 +98,7 @@ I'm a Computer Science Graduate passionate about Machine Learning, Deep Learning
 <br>
 
 <a href="#">
-  <img src="https://img.shields.io/badge/Oh%2C%20I%20almost%20forgot!%20You%20can%20call%20me-Quptan%20%E2%80%94%20everyone%20does!%20%F0%9F%AB%A1-FF9E00?style=for-the-badge&colorA=2D3748&colorB=FF9E00&logoColor=white"😁 />
+  <img src="https://img.shields.io/badge/Oh%2C%20I%20almost%20forgot!%20You%20can%20call%20me-Quptan%20%E2%80%94%20everyone%20does!%20%F0%9F%AB%A1-FF9E00?style=for-the-badge&colorA=2D3748&colorB=FF9E00&logoColor=white" 😁 />
 </a>
 
 </div>
